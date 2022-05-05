@@ -138,7 +138,8 @@
       "brewers_tips": "Play around with the fermentation temperature to get the best flavour profile from the individual yeasts.",
       "contributed_by": "Ali Skinner <AliSkinner>",
       "favourite": true,
-      "userBeer": true
+      "userBeer": true,
+      "rating": 3
     },
     {
       "id": 8,
@@ -277,8 +278,9 @@
       ],
       "brewers_tips": "Once the primary fermentation is complete get this beer as cold as you can and let it mature for as long as you've got.",
       "contributed_by": "Sam Mason <samjbmason>",
-      "favourite": false,
-      "userBeer": false
+      "favourite": true,
+      "userBeer": false,
+      "rating": 2
     },
     {
       "id": 81,
@@ -420,7 +422,10 @@
         "Lemon drizzle cake"
       ],
       "brewers_tips": "Let the beer lager at a low temperature for 3-4 weeks before adding the dry hops.",
-      "contributed_by": "Sam Mason <samjbmason>"
+      "contributed_by": "Sam Mason <samjbmason>",
+      "favourite": true,
+      "userBeer": false,
+      "rating": 4
     },
     {
       "id": 159,
@@ -583,7 +588,10 @@
         "Chocolate and dark cherry fondant"
       ],
       "brewers_tips": "Extend the mash time as much as possible to create maximum fermentable sugars. Boil for longer in the kettle to help evaporate off the water, and make the sugar concentration stronger.",
-      "contributed_by": "Sam Mason <samjbmason>"
+      "contributed_by": "Sam Mason <samjbmason>",
+      "favourite": true,
+      "userBeer": true,
+      "rating": 0
     }
   ]
 }
